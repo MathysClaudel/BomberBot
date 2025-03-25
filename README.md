@@ -56,16 +56,16 @@ make
 
 ### Mode 1 vs 1
 - **Joueur 1**  
+  ➤ Déplacement : `Flèches directionnelles`
+  ➤ Poser une bombe : `Entrée` 
+
+- **Joueur 2**   
   ➤ Déplacement : `Z` `Q` `S` `D`  
   ➤ Poser une bombe : `Espace`  
 
-- **Joueur 2**  
-  ➤ Déplacement : `Flèches directionnelles`
-  ➤ Poser une bombe : `Entrée`  
-
 ---
 
-### 🤖 Mode 1 vs IA
+### Mode 1 vs IA
 - **Joueur**  
   ➤ Déplacement : `Z` `Q` `S` `D`  
   ➤ Poser une bombe : `Espace`  
