@@ -67,8 +67,8 @@ make
 
 ### Mode 1 vs IA
 - **Joueur**  
-  ➤ Déplacement : `Z` `Q` `S` `D`  
-  ➤ Poser une bombe : `Espace`  
+  ➤ Déplacement : `Flèches directionnelles`
+  ➤ Poser une bombe : `Entrée`
 
 
 ### Lancer les tests unitairement :
