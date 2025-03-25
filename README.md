@@ -52,6 +52,25 @@ make
 ./bomberbot
 ```
 
+## Comment Jouer
+
+### Mode 1 vs 1
+- **Joueur 1**  
+  ➤ Déplacement : `Z` `Q` `S` `D`  
+  ➤ Poser une bombe : `Espace`  
+
+- **Joueur 2**  
+  ➤ Déplacement : `Flèches directionnelles`
+  ➤ Poser une bombe : `Entrée`  
+
+---
+
+### 🤖 Mode 1 vs IA
+- **Joueur**  
+  ➤ Déplacement : `Z` `Q` `S` `D`  
+  ➤ Poser une bombe : `Espace`  
+
+
 ### Lancer les tests unitairement :
 
 ```bash
