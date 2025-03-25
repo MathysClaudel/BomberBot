@@ -331,8 +331,8 @@ void game::explodeBomb(bomb &b) {
                     gameGrid.removeObstacle(nx, ny);
                     addExplosionEffect(nx, ny);
 
-                    // Générer un power-up avec 33% de chance
-                    if (rand() % 100 < 33) { 
+                    // Générer un power-up avec 80% de chance
+                    if (rand() % 100 < 80) { 
                         PowerUpType type = static_cast<PowerUpType>(rand() % 4);
                         powerUps.push_back(PowerUp(nx, ny, type));
                         std::cout << "Power-up généré en (" << nx << ", " << ny << ") de type " << type << std::endl;
