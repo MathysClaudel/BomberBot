@@ -1,9 +1,11 @@
 #include "menu.h"
 #include "game.h"
+#include "test.h"
 #include <iostream> 
 
 int main() {
     while (true) {
+        test();
         sf::RenderWindow window(sf::VideoMode({750, 550}), "BomberBot");
 
         Menu menu(window);
