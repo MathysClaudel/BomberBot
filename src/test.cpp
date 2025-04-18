@@ -3,5 +3,5 @@
 #include "test.h"
 
 void test() {
-    std::cout << "Fonction test appelée, v2, du 18avril!" << std::endl;
+    std::cout << "Fonction test appelée, v2, c'est la branche 2 la zonnne" << std::endl;
 }
